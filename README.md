@@ -1,5 +1,5 @@
 ## 🏆 Chess Game - Python  
-A complete Chess game built with Python, featuring a Player vs. Player (PVP) mode and AI-powered gameplay.
+A complete Chess game built with Python, featuring a Player vs. Player (PVP) mode.
 
 ## 📌 Features  
 ✅ Full chess game mechanics (legal moves, turn-based play)  
