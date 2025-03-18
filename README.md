@@ -53,3 +53,7 @@ Take a look at some in-game screenshots showcasing the chessboard, pieces, and U
 </table>
 
 </div>
+
+## Demo
+[Watch the Demo](https://drive.google.com/file/d/12fh6MLAn8OpTip5wQDcQaWZRmJj9b9u_/view?usp=drive_link)
+
